@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/phaindn/unnamed-backend
+[submodule "infra"]
+	path = infra
+	url = https://github.com/phaindn/unnamed-infra
