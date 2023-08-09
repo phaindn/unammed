@@ -1,6 +1,9 @@
-[submodule "backend"]
-	path = backend
-	url = https://github.com/phaindn/unnamed-backend
+[submodule "express"]
+	path = express
+	url = https://github.com/phaindn/unnamed-express
 [submodule "infra"]
 	path = infra
 	url = https://github.com/phaindn/unnamed-infra
+[submodule "nestjs"]
+	path = nestjs
+	url = https://github.com/phaindn/unnamed-nestjs
